@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vikram-kk/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vikram-kk/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vikram-kk/Leetcode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/vikram-kk/Leetcode-DSA/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/vikram-kk/Leetcode-DSA/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -22,5 +23,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vikram-kk/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vikram-kk/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vikram-kk/Leetcode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/vikram-kk/Leetcode-DSA/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/vikram-kk/Leetcode-DSA/tree/master/1768-merge-strings-alternately) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/vikram-kk/Leetcode-DSA/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
