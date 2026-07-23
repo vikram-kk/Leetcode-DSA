@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vikram-kk/Leetcode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1480-running-sum-of-1d-array](https://github.com/vikram-kk/Leetcode-DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/vikram-kk/Leetcode-DSA/tree/master/0392-is-subsequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/vikram-kk/Leetcode-DSA/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
