@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vikram-kk/Leetcode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1480-running-sum-of-1d-array](https://github.com/vikram-kk/Leetcode-DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/vikram-kk/Leetcode-DSA/tree/master/1732-find-the-highest-altitude) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,4 +35,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/vikram-kk/Leetcode-DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/vikram-kk/Leetcode-DSA/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
