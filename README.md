@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/vikram-kk/Leetcode-DSA/tree/master/0069-sqrtx) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vikram-kk/Leetcode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Two Pointers
 |  |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/vikram-kk/Leetcode-DSA/tree/master/0303-range-sum-query-immutable) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/vikram-kk/Leetcode-DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
