@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/vikram-kk/Leetcode-DSA/tree/master/0027-remove-element) |
 | [0303-range-sum-query-immutable](https://github.com/vikram-kk/Leetcode-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vikram-kk/Leetcode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1480-running-sum-of-1d-array](https://github.com/vikram-kk/Leetcode-DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/vikram-kk/Leetcode-DSA/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/vikram-kk/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vikram-kk/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vikram-kk/Leetcode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
